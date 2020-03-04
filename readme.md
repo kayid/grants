@@ -7,7 +7,7 @@ A full list of blockchain grants and funding sources.
 - [Grants](#grants)
 - [Hackathons](#hackathons)
 - [Bounties](#bounties)
-- [Community]（#community)
+- [Community](#community)
 - [Contributions](#contributions)
 
 
