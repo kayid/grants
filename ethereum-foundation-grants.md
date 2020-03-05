@@ -10,8 +10,6 @@ Read the original [DevGrant](https://blog.ethereum.org/2015/04/07/devgrants-help
 
 ![Ethereum Foundation Grants](https://blog.ethereum.org/wp-content/uploads/2018/05/efg.png)
 
-* Special thanks to [Winkrypto](http://winkrypto.com), [ChainNews](http://chainnews.com), [Block123](http://block123.com)
-
 
 ## Contents
 
@@ -24,6 +22,7 @@ Read the original [DevGrant](https://blog.ethereum.org/2015/04/07/devgrants-help
 - [Contributions](#contributions)
 
 _DevEx Grant – Improves developer experience (“useful” for developers)._
+
 _#BUIDL Grant – Builds for the end user (“useful” for users)._
 
 
@@ -257,4 +256,4 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-
+* Special thanks to [Winkrypto](http://winkrypto.com), [ChainNews](http://chainnews.com), [Block123](http://block123.com)
