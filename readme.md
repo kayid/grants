@@ -54,7 +54,7 @@ A full list of blockchain grants and funding sources.
 - [Status Incubate](https://our.status.im/tag/incubate/)
 - [Stellar Community Fund](https://stellarcommunity.fund/)
 - [RSK Ecosystem Fund](https://fund.rsk.co/)
-- [Celo Camp](https://www.celocamp.com/), email(mailto:alon@upright.gg)
+- [Celo Camp](https://www.celocamp.com/), [email](mailto:alon@upright.gg)
 
 <a name="hackathons" />
 
