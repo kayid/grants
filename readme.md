@@ -25,6 +25,7 @@ A full list of blockchain grants and funding sources.
 - [Filecoin Dev Grants](https://github.com/filecoin-project/devgrants)
 - [Supranational](https://github.com/supranational)
 - [W3F Grants](https://medium.com/web3foundation/tagged/grant), [email](mailto:grants@web3.foundation)
+- [Substrate Builders Program](https://www.parity.io/substrate-builders-program/)
 - [Aragon Nest](https://github.com/aragon/nest)
 - [MakerDAO Development Grants](https://grants.makerdao.com/)
 - [Square Crypto Grants](https://medium.com/@squarecrypto/square-crypto-grants-for-everybody-93d614f5fd0e), [email](mailto:grants@squarecrypto.org)
