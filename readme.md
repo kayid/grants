@@ -18,7 +18,7 @@ A full list of blockchain grants and funding sources.
 
 ## Grants
 
-- [Ethereum Foundation DEVgrants](https://blog.ethereum.org/2018/10/15/ethereum-foundation-grants-update-wave-4/), [email](mailto:grants@ethereum.org)
+- [Ethereum Foundation Grants](https://github.com/hackermoonio/grants/blob/master/ethereum-foundation-grants.md), [email](mailto:grants@ethereum.org)
 - [Ethereum Community Fund grants](https://ecfnetwork2.wpengine.com/supporting-projects/), [email](mailto:qj@ecf.network)
 - [Gitcoin grants](https://gitcoin.co/grants/)
 - [ConsenSys Grants](https://consensys.net/grants/), [email](mailto:grants@consensys.net)
