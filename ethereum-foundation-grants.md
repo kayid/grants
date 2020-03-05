@@ -18,7 +18,6 @@ Read the original [DevGrant](https://blog.ethereum.org/2015/04/07/devgrants-help
 - [Wave III, August 2018](#wave-iii)
 - [Wave IV, October 2018](#wave-iv)
 - [Wishlist!](#wishlist)
-- [Community](#community)
 - [Contributions](#contributions)
 
 _DevEx Grant – Improves developer experience (“useful” for developers)._
@@ -236,13 +235,6 @@ _#BUIDL Grant – Builds for the end user (“useful” for users)._
 - Translation of research, documentation, and specs into other languages 🔥
 
 
-<a name="community" />
-
-## Community
-* [Hacker Moon](https://www.hackermoon.io/)
-* [Telegram](https://t.me/)
-
-
 <a name="contributions" />
 
 ## Contributions
@@ -251,6 +243,8 @@ Your contributions are always welcome!
 
 If you want to contribute to this list (please do), send me a pull request or contact us [@amagzin](https://twitter.com/amagzin), [@picturepan2](https://twitter.com/picturepan2), [@jielong](https://twitter.com/jie1ong).
 
+* [Hacker Moon](https://www.hackermoon.io/)
+* [Telegram](https://t.me/)
 
 ## License
 
