@@ -8,7 +8,7 @@ Ethereum Foundation Grants (ÐΞVgrants) is a program that offers funding for co
 
 Read the original [DevGrant](https://blog.ethereum.org/2015/04/07/devgrants-help/) post. Comments, questions and applications should be directed to the [administrator](mailto:grants@ethereum.org).
 
-[![Ethereum Foundation Grants](https://blog.ethereum.org/wp-content/uploads/2018/05/efg.png)]
+![Ethereum Foundation Grants](https://blog.ethereum.org/wp-content/uploads/2018/05/efg.png)
 
 
 ## Contents
@@ -22,7 +22,8 @@ Read the original [DevGrant](https://blog.ethereum.org/2015/04/07/devgrants-help
 - [Contributions](#contributions)
 
 * DevEx Grant – Improves developer experience (“useful” for developers).
-** #BUIDL Grant – Builds for the end user (“useful” for users).
+
+* #BUIDL Grant – Builds for the end user (“useful” for users).
 
 * Special thanks to [Winkrypto](http://winkrypto.com), [ChainNews](http://chainnews.com), [Block123](http://block123.com)
 
