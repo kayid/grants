@@ -1,3 +1,11 @@
+![cover](/cover.png)
+
+![Contributions Welcome](https://img.shields.io/badge/Contributions-welcome-blue.svg)
+
+Know a resource that isn't listed below? Feel free to create a new [pull request](https://github.com/cypherhunter/grants/pulls).
+
+---
+
 # ConsenSys Grants
 
 ConsenSys Grants funds blockchain technology projects that meet the needs of a rapidly-accelerating Ethereum ecosystem. Some key areas include: core infrastructure, social impact, improved developer tooling and UX, security, and access to education. We are equally focused on funding core components and technology that will enable far-reaching community building projects in the blockchain space.
@@ -151,10 +159,11 @@ The next step of the Burner Wallet project is to extend further than a simple on
 
 Your contributions are always welcome!
 
-If you want to contribute to this list (please do), send me a pull request or contact us [@amagzin](https://twitter.com/amagzin), [@picturepan2](https://twitter.com/picturepan2), [@jielong](https://twitter.com/jie1ong).
+If you want to contribute to this list (please do), send me a pull request or [contact us](mailto:hello@cypherhunter.com).
 
-* [Hacker Moon](https://www.hackermoon.io/)
-* [Telegram](https://t.me/)
+Special thanks:
+* [D1 Ventures](http://d1.ventures)
+* [Winkrypto](http://winkrypto.com)
 
 ## License
 
