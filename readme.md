@@ -4,6 +4,8 @@
 
 Know a resource that isn't listed below? Feel free to create a new [pull request](https://github.com/cypherhunter/grants/pulls).
 
+---
+
 # Grants Programs
 
 A full list of blockchain grants and funding sources. Supported by [CypherHunter](http://cypherhunter.com).
