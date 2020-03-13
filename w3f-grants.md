@@ -1,3 +1,11 @@
+![cover](/cover.png)
+
+![Contributions Welcome](https://img.shields.io/badge/Contributions-welcome-blue.svg)
+
+Know a resource that isn't listed below? Feel free to create a new [pull request](https://github.com/cypherhunter/grants/pulls).
+
+---
+
 # W3F Grants
 
 ![W3F Grants](https://miro.medium.com/max/1001/1*H-iMTgVFKcU0rPS-MNthiQ.png)
@@ -98,13 +106,11 @@
 
 Your contributions are always welcome!
 
-If you want to contribute to this list (please do), send me a pull request or contact us [@amagzin](https://twitter.com/amagzin), [@picturepan2](https://twitter.com/picturepan2), [@jielong](https://twitter.com/jie1ong).
+If you want to contribute to this list (please do), send me a pull request or [contact us](mailto:hello@cypherhunter.com).
 
 Special thanks:
+* [D1 Ventures](http://d1.ventures)
 * [Winkrypto](http://winkrypto.com)
-* [ChainNews](http://chainnews.com)
-* [Block123](http://block123.com)
-* [Hacker Moon](https://www.hackermoon.io/)
 
 ## License
 
