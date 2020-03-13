@@ -1,3 +1,11 @@
+![cover](/cover.png)
+
+![Contributions Welcome](https://img.shields.io/badge/Contributions-welcome-blue.svg)
+
+Know a resource that isn't listed below? Feel free to create a new [pull request](https://github.com/cypherhunter/grants/pulls).
+
+---
+
 # Cosmos Community Contributor Grants
 
 ![Cosmos Community Contributor Grants](https://miro.medium.com/max/7680/1*l1Hvs382n0SSGqRxbNonTQ.jpeg)
@@ -10,10 +18,11 @@
 
 Your contributions are always welcome!
 
-If you want to contribute to this list (please do), send me a pull request or contact us [@amagzin](https://twitter.com/amagzin), [@picturepan2](https://twitter.com/picturepan2), [@jielong](https://twitter.com/jie1ong).
+If you want to contribute to this list (please do), send me a pull request or [contact us](mailto:hello@cypherhunter.com).
 
-* [Hacker Moon](https://www.hackermoon.io/)
-* [Telegram](https://t.me/)
+Special thanks:
+* [D1 Ventures](http://d1.ventures)
+* [Winkrypto](http://winkrypto.com)
 
 ## License
 
