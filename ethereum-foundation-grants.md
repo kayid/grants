@@ -33,8 +33,6 @@ _DevEx Grant – Improves developer experience (“useful” for developers)._
 _#BUIDL Grant – Builds for the end user (“useful” for users)._
 
 
-<a name="wave-i" />
-
 ## Wave I, March 2018
 
 ### Scalability
@@ -68,8 +66,6 @@ _#BUIDL Grant – Builds for the end user (“useful” for users)._
 - (Anonymous) – $10K. Deterministic WebAssembly.
 - [Ankit Raj](https://www.linkedin.com/in/ankitrajjha/) – $10K. Technical writing for Geth and Solidity.
 
-
-<a name="wave-ii" />
 
 ## Wave II, May 2018
 
@@ -111,8 +107,6 @@ _#BUIDL Grant – Builds for the end user (“useful” for users)._
 - [Chinese Academy of Sciences](http://english.ict.cas.cn/) (Yi Sun et al.) – $5K. Sharding R&D.
 
 
-<a name="wave-iii" />
-
 ## Wave III, August 2018
 
 ### Scalability
@@ -149,8 +143,6 @@ _#BUIDL Grant – Builds for the end user (“useful” for users)._
 - Pseudo-randomly selected committees ([source code](http://github.com/mikerah)) – $10K. Sharding R&D.
 - [Etherlinker](https://linkedin.com/in/kelheor) – $10K. Unreal Engine 4 API for Ethereum.
 
-
-<a name="wave-iv" />
 
 ## Wave IV, October 2018
 
@@ -192,8 +184,6 @@ _#BUIDL Grant – Builds for the end user (“useful” for users)._
 - [Prysmatic Labs](https://prysmaticlabs.com/) ([source code](http://github.com/prysmaticlabs/prysm)) – $500K. Eth 2.0 Prysm client.
 - [Status](https://blog.status.im/introducing-nimbus-3360367bb311) ([source code](https://github.com/status-im/nimbus)) – $500K. Eth 2.0 client in Nim.
 
-
-<a name="wishlist" />
 
 ## Wishlist!
 
@@ -242,8 +232,6 @@ _#BUIDL Grant – Builds for the end user (“useful” for users)._
 - Community groups and conferences for underrepresented and underserved communities 🔥
 - Translation of research, documentation, and specs into other languages 🔥
 
-
-<a name="contributions" />
 
 ## Contributions
 
