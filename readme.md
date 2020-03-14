@@ -1,4 +1,4 @@
-![cover](/cover.png)
+[![cover](/cover.png)](https://cypherhunter.com/)
 
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-welcome-blue.svg)
 
@@ -22,21 +22,21 @@ A full list of blockchain grants and funding sources. Supported by [CypherHunter
 
 ## Grants
 
-- [Ethereum Foundation Grants](https://github.com/hackermoonio/grants/blob/master/ethereum-foundation-grants.md), [email](mailto:grants@ethereum.org)
+- [Ethereum Foundation Grants](/ethereum-foundation-grants.md), [email](mailto:grants@ethereum.org)
 - [Ethereum Community Fund grants](https://ecfnetwork2.wpengine.com/supporting-projects/), [email](mailto:qj@ecf.network)
 - [Gitcoin grants](https://gitcoin.co/grants/)
 - [ConsenSys Grants](https://consensys.net/grants/), [email](mailto:grants@consensys.net)
 - [Protocol Labs RFPs and Bounties](https://github.com/protocol/research-RFPs), [email](mailto:rfp@protocol.ai)
 - [Filecoin Dev Grants](https://github.com/filecoin-project/devgrants)
 - [Supranational](https://github.com/supranational)
-- [W3F Grants](https://medium.com/web3foundation/tagged/grant), [email](mailto:grants@web3.foundation)
+- [W3F Grants](/w3f-grants.md), [email](mailto:grants@web3.foundation)
 - [Substrate Builders Program](https://www.parity.io/substrate-builders-program/)
 - [Aragon Nest](https://github.com/aragon/nest)
 - [MakerDAO Development Grants](https://grants.makerdao.com/)
 - [Square Crypto Grants](https://medium.com/@squarecrypto/square-crypto-grants-for-everybody-93d614f5fd0e), [email](mailto:grants@squarecrypto.org)
 - [Gnosis Ecosystem Fund](https://github.com/gnosis/GECO)
 - [Interchain Foundation Funding Program](https://github.com/interchainio/funding/tree/master/projects)
-- [Cosmos Community Contributor Grants](https://blog.cosmos.network/cosmos-community-contributor-grants-75e24532c261)
+- [Cosmos Community Contributor Grants](/cosmos-community-contributor-grants.md)
 - [Tezos Grants](https://tezos.foundation/news/announcing-third-cohort-of-tezos-ecosystem-grants), [email](mailto:grants@tezos.com)
 - [LatticeX Grants](https://latticex.foundation/grants)
 - [Social Alpha Foundation](https://www.socialalphafoundation.org/saf-grantee/)
