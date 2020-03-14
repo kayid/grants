@@ -46,7 +46,7 @@ In total, there were 27 Community Contributors who we recognize as stellar stewa
 - Asmodat, [Kira Core](https://www.cypherhunter.com/en/p/069828333738/)
 - Kenneth James Berey, Cosmos Phillippines
 
-## Wishlist!
+## Wishlist
 
 Cosmos constantly keeps track of contributors who meet three criteria.
 
