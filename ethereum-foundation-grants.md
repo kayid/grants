@@ -25,7 +25,7 @@ Read the original [DevGrant](https://blog.ethereum.org/2015/04/07/devgrants-help
 - [Wave II, May 2018](#wave-ii-may-2018)
 - [Wave III, August 2018](#wave-iii-august-2018)
 - [Wave IV, October 2018](#wave-iv-october-2018)
-- [Wishlist!](#wishlist!)
+- [Wishlist!](#wishlist)
 - [Contributions](#contributions)
 
 _DevEx Grant – Improves developer experience (“useful” for developers)._
@@ -185,7 +185,7 @@ _#BUIDL Grant – Builds for the end user (“useful” for users)._
 - [Status](https://blog.status.im/introducing-nimbus-3360367bb311) ([source code](https://github.com/status-im/nimbus)) – $500K. Eth 2.0 client in Nim.
 
 
-## Wishlist!
+## Wishlist
 
 ### Scalability
 - More payment and/or [state channel](http://www.jeffcoleman.ca/state-channels/) implementations 💚💙💜
