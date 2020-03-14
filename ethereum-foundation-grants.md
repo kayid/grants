@@ -42,7 +42,7 @@ _#BUIDL Grant – Builds for the end user (“useful” for users)._
 - [L4 Research](http://l4.ventures/) – $1.5M. State channels research.
 - [Prysmatic Labs](https://prysmaticlabs.com/) – $100K. Sharding implementation.
 - [Barcelona Supercomputing Center](https://www.bsc.es/) – $50K. Sharding simulation.
-- Plasma Taiwan Dev ([source code](https://github.com/ethereum-plasma/naivechain)] – $25K. Plasma implementation.
+- Plasma Taiwan Dev ([source code](https://github.com/ethereum-plasma/naivechain)) – $25K. Plasma implementation.
 - [Turbo Geth](https://medium.com/@akhounov/roadmap-for-turbo-geth-31cbfb1e72b7) – $25K. Geth optimization.
 
 ### Security
@@ -76,7 +76,7 @@ _#BUIDL Grant – Builds for the end user (“useful” for users)._
 ### Scalability
 
 - [Perun](https://eprint.iacr.org/2018/320) – $250K. State channels R&D.
-- PISA by [Patrick McCorry](http://www0.cs.ucl.ac.uk/staff/P.McCorry/) et al.) – $250K. State channels R&D.
+- PISA (by [Patrick McCorry](http://www0.cs.ucl.ac.uk/staff/P.McCorry/) et al.) – $250K. State channels R&D.
 - [Sprites Implementation](https://arxiv.org/abs/1702.05812) (by [Enuma](https://www.enuma.io/)) – $200K. Payment channels implementation.
 - General Computation on Plasma (by [Parsec Labs](https://www.parseclabs.org/)) – $50K. Plasma implementation.
 - Plasma by [Kyokan](https://kyokan.io/) ([source code](https://github.com/kyokan/plasma)) – $50K. Plasma implementation.
@@ -146,7 +146,7 @@ _#BUIDL Grant – Builds for the end user (“useful” for users)._
 
 ### Hackternhips
 
-- Pseudo-randomly selected committees ([source code](http://github.com/mikerah) – $10K. Sharding R&D.
+- Pseudo-randomly selected committees ([source code](http://github.com/mikerah)) – $10K. Sharding R&D.
 - [Etherlinker](https://linkedin.com/in/kelheor) – $10K. Unreal Engine 4 API for Ethereum.
 
 
@@ -159,7 +159,7 @@ _#BUIDL Grant – Builds for the end user (“useful” for users)._
 - Non-Custodial Payment Channel Hub – $420K. Payment upon delivery for the open source SDK release built by [Spankchain](https://spankchain.com/), [Kyokan](https://kyokan.io/), and [Connext](https://connext.network/) at Devcon 4.
 - [Prototypal](https://counterfactual.com/) – $375K. Front-end state channel research and development.
 - [Finality Labs](https://finalitylabs.io/) ([source code](https://github.com/finalitylabs), [email](mailto:team@finalitylabs.io)) – $250K. Development of Forward-Time Locked Contracts (FTLC).
-- [Kyokan]（http://plasma.kyokan.io/）([source code](https://github.com/kyokan/plasma)) – $125K. Development of production ready mainnet Plasma Cash & Debit plugins.
+- [Kyokan](http://plasma.kyokan.io/) ([source code](https://github.com/kyokan/plasma)) – $125K. Development of production ready mainnet Plasma Cash & Debit plugins.
 - [Atomic Cross-Chain Transactions](http://cs.brown.edu/research/atomic-transactions/) – $65K. Research led by Maurice Herlihy of Brown University.
 - EthSnarks ([source code](https://github.com/HarryR/ethsnarks)) – $40K. Development of a cross-compatible SDK for zkSNARKS to be viable on Ethereum.
 
@@ -170,7 +170,7 @@ _#BUIDL Grant – Builds for the end user (“useful” for users)._
 ### Usability (DevEx)
 
 - TrueBlocks ([source code](https://github.com/Great-Hill-Corporation/quickBlocks)) – $120K. Open source block explorer.
-- [Gitcoin](https://gitcoin.co/) ([source code](https://github.com/gitcoinco), email(mailto:founders@gitcoin.co)) – $100K. Funding bounties on Gitcoin.
+- [Gitcoin](https://gitcoin.co/) ([source code](https://github.com/gitcoinco), [email](mailto:founders@gitcoin.co)) – $100K. Funding bounties on Gitcoin.
 - VulcanizeDB ([source code](https://github.com/vulcanize/vulcanizedb)) – $75K. “Community sourced” block explorer.
 - [Buidler](http://getbuidler.com/) – $50K. Development of modular alternative to Truffle based on Ethers.js.
 - [Ethdoc](https://ethdoc.io/) – $25K. Open source tool for organization and interaction of smart contract codebases.
@@ -179,7 +179,7 @@ _#BUIDL Grant – Builds for the end user (“useful” for users)._
 
 ### (#BUIDL)
 
-- [Magic Money Tree (Dark Crystal)](https://darkcrystal.pw/) – $50K. Tool for securely storing and recovering keys and secrets through a multisig design by the Secure Scuttlebutt Team.
+- Magic Money Tree ([Dark Crystal](https://darkcrystal.pw/)) – $50K. Tool for securely storing and recovering keys and secrets through a multisig design by the Secure Scuttlebutt Team.
 
 ### Hackternships
 
