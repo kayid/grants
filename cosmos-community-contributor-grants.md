@@ -1,4 +1,4 @@
-![cover](/cover.png)(https://cypherhunter.com/)
+[![cover](/cover.png)](https://cypherhunter.com/)
 
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-welcome-blue.svg)
 
