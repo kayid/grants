@@ -6,19 +6,17 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 
 ---
 
-# Grants Programs
+# Grants and Funding Programs
 
 A full list of blockchain grants and funding sources. Supported by [CypherHunter](http://cypherhunter.com).
 
 ## Contents
 
 - [Grants](#grants)
-- [Hackathons](#hackathons)
+- [Incubation](#incubation)
 - [Bounties](#bounties)
 - [Contributions](#contributions)
 
-
-<a name="grants" />
 
 ## Grants
 
@@ -39,53 +37,47 @@ A full list of blockchain grants and funding sources. Supported by [CypherHunter
 - [Cosmos Community Contributor Grants](/cosmos-community-contributor-grants.md)
 - [Tezos Grants](https://tezos.foundation/news/announcing-third-cohort-of-tezos-ecosystem-grants), [email](mailto:grants@tezos.com)
 - [LatticeX Grants](https://latticex.foundation/grants)
+- [SDF Grants](https://www.stellar.org/foundation/mandate)
 - [Social Alpha Foundation](https://www.socialalphafoundation.org/saf-grantee/)
 - [ZILHive Grants](https://zilliqa.com/zilhive)
 - [Waves Grants](https://waveslabs.com/grants)
 - [Aion Bounties and Grants](https://theoan.com/)
 - [RSK Grants](https://developers.rsk.co/grants/)
-- [IOTA Grant](https://coordicide.iota.org/grants), [email](mailto:grants.research@iota.org)
+- [IOTA Grants](https://coordicide.iota.org/grants), [email](mailto:grants.research@iota.org)
+- [Politeia](https://proposals.decred.org/)
 - [WeTrust](https://grants.wetrust.io/)
 - [Samsung NEXT Stack Zero Grant](https://samsungnext.com/whats-next/category/podcasts/decentralization-samsung-next-stack-zero-grant-recipients/)
 - [Binance X Fellowship](https://binancex.dev/fellowship.html)
 - [Bytom Grant](https://bytom.io/bytomgrant/)
 
-<a name="incubation" />
 
 ## Incubation
 
 - [Tachyon](https://labs.consensys.net/tachyon/)
 - [Binance Labs INCUBATION Program](https://www.binancelabs.co/)
+- [IDEO’s Startup Studio](https://www.ideocolab.com/startupstudio/)
 - [LongHash Hatch Batch](https://www.longhashventures.com/incubation/)
+- [Open Web Collective](https://openwebcollective.com/)
+- [Libracamp](https://www.libracamp.com/)
 - [Status Incubate](https://our.status.im/tag/incubate/)
 - [Stellar Community Fund](https://stellarcommunity.fund/)
+- [Lightcurve](https://lightcurve.io/)
 - [RSK Ecosystem Fund](https://fund.rsk.co/)
+- [Bicameral Ventures](https://www.bicameralventures.com/)
 - [Celo Camp](https://www.celocamp.com/), [email](mailto:alon@upright.gg)
+- [Blockstack Signature Fund](https://signaturefund.org/)
+- [AE VENTURES](https://aeventures.io/)
+- [IOTA Ecosystem Development Fund](https://fund.iota.org/)
+- [BlueHill](http://bluehill.net/)
+- [GILGA](https://gilga.io/)
+- [EMURGO](https://emurgo.io/)
+- [dLab](https://dlab.vc/)
+- [Metaverse Ventures](https://metaverseventures.co/)
+- [Beacon Fund](https://dfinity.org/ecosystem/fund), [email](mailto:beacon@dfinity.org)
+- [TomorrowBC](http://www.tomorrowbc.com/)
+- [Ethereum Classic Labs](https://etclabs.org/)
+- [FoundationX](https://www.foundationx.io/)
 
-<a name="hackathons" />
-
-## Hackathons
-
-- [ConsenSys Labs Relays](https://labs.consensys.net/relays/)
-- [Gitcoin Skynet](https://gitcoin.co/hackathon/skynet)
-- [DeFi Hackathon San Francisco](https://hackathon.sfblockchainweek.io/)
-- [Cosmos Hackathons](https://blog.cosmos.network/tagged/hackathons)
-- [Kyber DeFi Hackathon](https://blog.kyber.network/kyberdefi-hackathon-meet-the-winners-bea5bc9ec983)
-- [0x + CoinList Hackathon](https://coinlist.co/build/0x)
-- [The Graph + CoinList Hackathon](https://coinlist.co/build/the-graph)
-- [Coda + Dekrypt: The SNARK Challenge](https://coinlist.co/build/coda)
-- [Cheeze Wizards + CoinList Hackathon](https://coinlist.co/build/cheezewizards)
-- [IDEO + CoinList Hackathon](https://coinlist.co/build/ideo/)
-- [Chainlink + CoinList Hackathon](https://coinlist.co/build/chainlink/)
-- [Erasure + CoinList Hackathon](https://coinlist.co/build/erasure)
-- [ETHDenver DeFi Hackathon](https://alchemy-xdai.daostack.io/dao/0xe248a76a4a84667c859eb51b9af6dea29e52f139/crx/proposal/0xc2584683cbf5f10af39fb2b79b62ff967608a9e179241e0fce9c8f6dbd6a579a)
-- [ETHIndia Hackathon 2019](https://blog.kyber.network/ethindia-2019-recap-af41c655a73c)
-- [Social Impact Coalition Hackathon](https://media.consensys.net/announcing-the-winners-of-the-bsic-hackathon-808e0e1eb339)
-- [IPFS Ethereum Hackathon](https://media.consensys.net/ipfs-ethereum-hackathon-results-d6b90b34286f)
-- [Xpring Blockchain Interoperability Hackathon](https://xpring-hack.devfolio.co/)
-- [NEO Blockchain Hackathon](https://github.com/neo-ngd/Hackathon)
-
-<a name="bounties" />
 
 ## Bounties
 
@@ -97,8 +89,8 @@ A full list of blockchain grants and funding sources. Supported by [CypherHunter
 - [Conflux Bounty](https://bounty.conflux-chain.org/)
 - [Augur Bounties](https://github.com/AugurProject/augur-bounties)
 - [Nebulas Community Collabration](https://go.nebulas.io/projects)
+- [Decred Bug Bounty](https://bounty.decred.org/)
 
-<a name="contributions" />
 
 ## Contributions
 
