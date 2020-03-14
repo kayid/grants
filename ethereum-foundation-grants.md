@@ -22,10 +22,10 @@ Read the original [DevGrant](https://blog.ethereum.org/2015/04/07/devgrants-help
 ## Contents
 
 - [Wave I, March 2018](#wave-i-march-2018)
-- [Wave II, May 2018](#wave-ii)
-- [Wave III, August 2018](#wave-iii)
-- [Wave IV, October 2018](#wave-iv)
-- [Wishlist!](#wishlist)
+- [Wave II, May 2018](#wave-ii-may-2018)
+- [Wave III, August 2018](#wave-iii-august-2018)
+- [Wave IV, October 2018](#wave-iv-october-2018)
+- [Wishlist!](#wishlist!)
 - [Contributions](#contributions)
 
 _DevEx Grant – Improves developer experience (“useful” for developers)._
