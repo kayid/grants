@@ -21,7 +21,7 @@ Read the original [DevGrant](https://blog.ethereum.org/2015/04/07/devgrants-help
 
 ## Contents
 
-- [Wave I, March 2018](#wave-i)
+- [Wave I, March 2018](#wave-i-march-2018)
 - [Wave II, May 2018](#wave-ii)
 - [Wave III, August 2018](#wave-iii)
 - [Wave IV, October 2018](#wave-iv)
