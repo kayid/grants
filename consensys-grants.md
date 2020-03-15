@@ -23,29 +23,21 @@ ConsenSys Grants funds blockchain technology projects that meet the needs of a r
 
 ### Social Impact
 
-[Ribbon Blockchain](http://www.ribbonblockchain.com/) – $25,000. Public Health Incentives App.
+[Ribbon Blockchain](https://www.cypherhunter.com/en/p/729766974653/) ([source code](https://github.com/RibbonBlockchain))– $25,000. Public Health Incentives App, reducing the burden on the medical system. 
 
-Ribbon is a public health incentives app using tokenized incentives to make positive lifestyle changes. It is focused on reducing the burden on the medical system and making communities healthier. 
-
-[Nori](http://nori.com/) – $10,000.
-
-Nori is finding a way to solve climate change—not just make it less bad. Using blockchain technology to incentivize carbon removal makes sense. Nori is preventing fraud and double-counting in the carbon market, and the NORI token enables the world to set a truly market-driven price on removing a ton of carbon dioxide from the atmosphere.
+[Nori](https://www.cypherhunter.com/en/p/051416848481/) ([source code](https://github.com/nori-dot-eco))– $10,000. Finding a way to solve climate change, to set a truly market-driven price on removing a ton of carbon dioxide from the atmosphere.
 
 ### Usability and Dev Tooling
 
-[KickBack](https://kickback.events/) – $10,000.
+[KickBack](https://www.cypherhunter.com/en/p/919781370128/) ([source code](https://github.com/wearekickback)) – $10,000. Help blockchain event organizers attract new participants.
 
-KickBack will help blockchain event organizers attract new participants with little to no knowledge or experience of interacting with dapps and smart contracts. Kickback (and “Blockparty”, its predecessor prototype) have so far served over 50 events with nearly 1000 participants. These were mostly crypto related meetups, hackathons, conference, and social events.
-
-[Vyper](https://github.com/vyperlang/vyper/) – $10,000. Contract-oriented, pythonic programming language targeting the Ethereum Virtual Machine (EVM).
+[Vyper](https://www.cypherhunter.com/en/p/748589014227/) ([source code](https://github.com/vyperlang/vyper/)) – $10,000. Contract-oriented, pythonic programming language targeting the Ethereum Virtual Machine (EVM).
 
 ### Infrastructure
 
-[Gas stations network](https://github.com/tabookey/tabookey-gasless) / EIP-1613 – $25,000. Solving the gasless users onboarding problem in a trustless decentralized way through a network of incentivized relays. 
+[Gas Stations Network](https://www.cypherhunter.com/en/p/824121470232/) ([source code](https://github.com/opengsn/gsn), [email](mailto:team@opengsn.org)) / EIP-1613 – $25,000. Solving the gasless users onboarding problem in a trustless decentralized way through a network of incentivized relays. 
 
-[Notus](https://notus.events/) – $10,000.
-
-Notifications and transactional email are essential for a quality user experience. Notus aims to make providing the same level of service to dapp users as easy as possible. Notus is a service that allows users to trigger webhooks from Ethereum smart contract events or Graph Protocol GraphQL subscriptions. 
+[Notus](https://www.cypherhunter.com/en/p/566937912133/) – $10,000. A service that allows users to trigger webhooks from Ethereum smart contract events or Graph Protocol GraphQL subscriptions.
 
 ### Education & Technical Knowledge
 
