@@ -82,7 +82,7 @@ ConsenSys Grants funds blockchain technology projects that meet the needs of a r
 
 [Tellor](https://www.cypherhunter.com/en/p/719860032632/) ([source code](https://github.com/tellor-io)) – $25,000. Decentralized oracle that provides an efficient, trustless, and decentralized alternative for off-chain data.
 
-Trueblocks[https://www.cypherhunter.com/en/p/502582834904/] ([source code](https://github.com/Great-Hill-Corporation/trueblocks-core)) – $25,000. Framework that indexes appearances of addresses, providing lightning-fast access to full, complete, audit-quality transaction histories for any address.
+[Trueblocks](https://www.cypherhunter.com/en/p/502582834904/) ([source code](https://github.com/Great-Hill-Corporation/trueblocks-core)) – $25,000. Framework that indexes appearances of addresses, providing lightning-fast access to full, complete, audit-quality transaction histories for any address.
 
 [Zeropool](https://www.cypherhunter.com/en/p/316433080865/) ([source code](https://github.com/zeropoolnetwork/)) – $25,000. A platform for fully anonymous and non-trackable transactions on Ethereum, supporting multiple ERC20 tokens, ether, and anonymous atomic swaps.
 
